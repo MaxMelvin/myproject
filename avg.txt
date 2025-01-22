@@ -1,0 +1,7 @@
+a=int(input("Enter any Number"))
+b=int(input("Enter any Number"))
+c=int(input("Enter any Number"))
+avg=0
+result=a+b+c
+avg=result/3
+print(avg)
