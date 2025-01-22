@@ -1,2 +1,2 @@
 # myproject
-Average of three numbers
+This program is to get the Average of three numbers
